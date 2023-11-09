@@ -9,7 +9,7 @@ public class WelcomeController {
 
 	@GetMapping("/")
 	public String index() {
-		return "Greetings from Spring Boot! Vinay";
+		return "Greetings from Spring Boot! Training";
 	}
 
 }
